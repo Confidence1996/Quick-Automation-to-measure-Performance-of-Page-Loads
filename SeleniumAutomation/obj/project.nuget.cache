@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "W9IUgkwcI/J8hoqUThPOI+lKyhvRfk3bhQ51LZVCS/YLiP8V39LRCHbugUMobvDaPZsqk6SLt9BIYlPP4W4pHA==",
+  "success": true,
+  "projectFilePath": "E:\\projects\\Jon.C-20220-10-2\\SeleniumAutomation\\SeleniumAutomation\\SeleniumAutomation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\selenium.webdriver\\4.5.0\\selenium.webdriver.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
